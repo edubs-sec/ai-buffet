@@ -14,7 +14,7 @@
     "agent-calculator": "tsx agent-calculator.ts"
   },
   "dependencies": {
-    "openai": "^4.0.0",
+    "openai": "^7.45.1",
     "@anthropic-ai/sdk": "^0.32.0",
     "@langchain/core": "^0.3.0",
     "@langchain/openai": "^0.3.0",
